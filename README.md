@@ -1,5 +1,5 @@
 
-# Hack-AI-Thon-Project
+# An AI Powered Fraud Detection and Document Verification Platform
 
 ## About The Project
 
